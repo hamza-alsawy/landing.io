@@ -1,0 +1,12 @@
+[29-Nov-2022 06:12:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/vanititi/public_html/subscribe.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/vanititi/public_html/subscribe.php on line 65
+[29-Nov-2022 06:14:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/vanititi/public_html/subscribe.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/vanititi/public_html/subscribe.php on line 65
+[29-Nov-2022 06:14:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/vanititi/public_html/subscribe.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/vanititi/public_html/subscribe.php on line 65
